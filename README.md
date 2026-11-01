@@ -16,8 +16,10 @@ To create a web server using Node.js HTTP module and Express.js.
 - JavaScript
 
 ## How to Run
+
 1. Install Node.js.
 2. Open the project folder.
 3. Install dependencies:
+
    ```bash
    npm install
