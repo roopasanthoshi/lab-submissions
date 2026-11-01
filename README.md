@@ -5,7 +5,7 @@
 **Section:** AIML-2B-207
 
 ## Live Link
-Not deployed yet.
+https://lab-submission-1-backend.onrender.com
 
 ## Objective
 To create a web server using Node.js HTTP module and Express.js.
